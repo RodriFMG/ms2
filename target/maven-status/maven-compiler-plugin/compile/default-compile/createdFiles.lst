@@ -1,0 +1,10 @@
+com\example\ms2_funcionaaa\Ms2FuncionaaaApplication.class
+com\example\ms2_funcionaaa\Service\CompraService.class
+com\example\ms2_funcionaaa\Service\ClienteService.class
+com\example\ms2_funcionaaa\Infrastracture\CompraRepository.class
+com\example\ms2_funcionaaa\Domain\Compra.class
+com\example\ms2_funcionaaa\application\ClienteController.class
+com\example\ms2_funcionaaa\Infrastracture\ClienteRepository.class
+com\example\ms2_funcionaaa\WebConfig.class
+com\example\ms2_funcionaaa\Domain\Cliente.class
+com\example\ms2_funcionaaa\application\CompraController.class
